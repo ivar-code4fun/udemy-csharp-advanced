@@ -1,0 +1,16 @@
+C:\Users\Ravi\Documents\GitHub\udemy\csharp-advanced\Generics\LambdaExpressions\bin\Debug\LambdaExpressions.exe.config
+C:\Users\Ravi\Documents\GitHub\udemy\csharp-advanced\Generics\LambdaExpressions\bin\Debug\LambdaExpressions.exe
+C:\Users\Ravi\Documents\GitHub\udemy\csharp-advanced\Generics\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
+C:\Users\Ravi\Documents\GitHub\udemy\csharp-advanced\Generics\LambdaExpressions\obj\Debug\LambdaExpressions.csprojResolveAssemblyReference.cache
+C:\Users\Ravi\Documents\GitHub\udemy\csharp-advanced\Generics\LambdaExpressions\obj\Debug\LambdaExpressions.exe
+C:\Users\Ravi\Documents\GitHub\udemy\csharp-advanced\Generics\LambdaExpressions\obj\Debug\LambdaExpressions.pdb
+C:\Users\Ravi\Documents\GitHub\udemy\csharp-advanced\Generics\LambdaExpressions\bin\Debug\Generics.exe
+C:\Users\Ravi\Documents\GitHub\udemy\csharp-advanced\Generics\LambdaExpressions\bin\Debug\Generics.pdb
+C:\Users\Ravi\Documents\GitHub\udemy\csharp-advanced\LambdaExpressions\bin\Debug\LambdaExpressions.exe.config
+C:\Users\Ravi\Documents\GitHub\udemy\csharp-advanced\LambdaExpressions\bin\Debug\LambdaExpressions.exe
+C:\Users\Ravi\Documents\GitHub\udemy\csharp-advanced\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
+C:\Users\Ravi\Documents\GitHub\udemy\csharp-advanced\LambdaExpressions\bin\Debug\Generics.exe
+C:\Users\Ravi\Documents\GitHub\udemy\csharp-advanced\LambdaExpressions\bin\Debug\Generics.pdb
+C:\Users\Ravi\Documents\GitHub\udemy\csharp-advanced\LambdaExpressions\obj\Debug\LambdaExpressions.csprojResolveAssemblyReference.cache
+C:\Users\Ravi\Documents\GitHub\udemy\csharp-advanced\LambdaExpressions\obj\Debug\LambdaExpressions.exe
+C:\Users\Ravi\Documents\GitHub\udemy\csharp-advanced\LambdaExpressions\obj\Debug\LambdaExpressions.pdb
