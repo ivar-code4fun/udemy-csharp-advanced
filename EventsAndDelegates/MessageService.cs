@@ -8,9 +8,9 @@ namespace EventsAndDelegates
 {
     public class MessageService
     {
-        public void OnVideoEncoded(object source, EventArgs e)
+        public void OnVideoEncoded(object source, VideoEventArgs e)
         {
-            Console.WriteLine("MessageService: Sending a message ... ");
+            Console.WriteLine("MessageService: Sending a message ... " + e.Video.Title);
         }
     }
 }
